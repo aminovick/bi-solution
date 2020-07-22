@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "amine",
+      "firstName": "test",
+      "lastName": "",
+      "email": "07.amine@gmail.com",
+      "password": "",
+      "profiles": [
+        "Profile 1"
+      ]
+    },
+   
+    {
+      "id": 3,
+      "username": "t3",
+      "firstName": "ahmaed",
+      "lastName": "salami",
+      "email": "ahmedahmed@gmail.com",
+      "password": "",
+      "confirmation": "",
+      "date": "",
+      "active": true,
+      "handle": "",
+      "profiles": [],
+      "profilSelected": [
+        "Profile 2",
+        "Profile 4"
+      ],
+      "description": ""
+    },
+    {
+      "id": 4,
+      "username": "t7",
+      "firstName": "adil",
+      "lastName": "asdel",
+      "email": "adil@gmail.com",
+      "password": "",
+      "confirmation": "",
+      "date": "",
+      "active": true,
+      "handle": "",
+      "profiles": [],
+      "profilSelected": [
+        "Profile 2",
+        "Profile 3",
+        "Profile 4",
+        "Profile 5"
+      ],
+      "description": ""
+    },
+    {
+      "id": 5,
+      "username": "fg",
+      "firstName": "gf",
+      "lastName": "gf",
+      "email": "ahmedahmed@gmail.com",
+      "emailError": "",
+      "password": "",
+      "confirmation": "",
+      "date": "",
+      "active": true,
+      "handle": "",
+      "profiles": [],
+      "profilSelected": [
+        "Profile 2",
+        "Profile 5"
+      ],
+      "description": ""
+    }
+  ]
+}
